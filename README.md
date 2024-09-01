@@ -1,2 +1,2 @@
 # my-db-brushups
-A quick reference to my practice from different learningplatforms
+A quick reference to my practice topics from different learning platforms
