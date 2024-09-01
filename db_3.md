@@ -1,1 +1,0 @@
-# A good cheetsheet will come in this page.
